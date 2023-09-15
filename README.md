@@ -139,3 +139,6 @@ https://alist.nn.ci/zh/config/configuration.html
 1. 默认用户名为 admin，密码显示在 PaaS 平台容器初次运行日志中，登录后请尽快修改密码。
 
 2. Aria2 地址为 http://localhost:61800/jsonrpc ，RPC 密钥为空。
+
+
+20230915
