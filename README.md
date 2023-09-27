@@ -1,5 +1,7 @@
 **2023-4-2之前的部署请注意，README说明中"DATABASE_URL"被我手误写成"DATEBASE_URL"，请及时更改变量名（无需重新部署，但需要从头重新设置），不然容器重启后会丢失所有设置。**
 
+可用于northflank.com
+
 ## 鸣谢
 
 - [alist-org/alist](https://github.com/alist-org/alist)
